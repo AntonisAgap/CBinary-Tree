@@ -1,2 +1,2 @@
-# binary_tree
-just a data structures exercise
+# Binary tree using C
+Just a Data Structurs course exercise.
